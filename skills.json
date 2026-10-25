@@ -19,12 +19,5 @@
     "version": "1.0.0",
     "icon": "FileText",
     "path": "skills/chinese-markdown"
-  },
-  {
-    "name": "��ʾ���ܣ��˵��˲����ϴ���",
-    "description": "��ʾ���ܣ��˵��˲����ϴ���",
-    "version": "1.0.0",
-    "icon": "Zap",
-    "path": "skills/demo-skill"
   }
 ]
