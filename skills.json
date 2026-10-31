@@ -1,12 +1,5 @@
 [
   {
-    "name": "WSL 与 Linux 命令速查",
-    "description": "Windows 上通过 WSL 操控 Linux 的常用命令与沙盒操作要点",
-    "version": "1.0.0",
-    "icon": "Terminal",
-    "path": "skills/wsl-commands"
-  },
-  {
     "name": "长对话上下文压缩",
     "description": "对话过长或接近上限时压缩并保留关键信息的方法",
     "version": "1.0.0",
